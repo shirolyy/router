@@ -1,5 +1,5 @@
 <template>
-    <div class="orange">
+    <div class="banana">
         <h1>{{msg}}</h1>
     </div>
 </template>
@@ -8,14 +8,14 @@
 export default {
   data () {
     return {
-      msg: '我是橘子'
+      msg: '我是香蕉'
     }
   }
 }
 </script>
 
 <style>
-.orange{
-    color: orange;
+.banana{
+    color:yellow;
 }
 </style>
